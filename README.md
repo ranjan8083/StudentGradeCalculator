@@ -1,8 +1,3 @@
-For this project, keep the `README.md` **simple and professional**. Since you're building the project step-by-step, don't write things that aren't implemented yet.
-
-You can structure it like this:
-
-````markdown
 # Student Grade Calculator
 
 A simple Java console application that calculates a student's total marks, percentage, and grade based on marks entered for different subjects.
@@ -74,14 +69,3 @@ StudentGradeCalculator/
 ## Author
 
 Ranjan Kumar
-
-```
-
-### One important point
-
-Notice that I put **input validation** and **multiple students** under **Future Improvements**, not under Features.
-
-That's important for your GitHub profile: **the README should describe what the project actually does today**, not what we might build later.
-
-And as we add features, we'll update the README accordingly. That will also give you practice maintaining project documentation like a real software project.
-```
