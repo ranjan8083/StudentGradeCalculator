@@ -16,6 +16,11 @@ public class Main {
         for(int i =0;i<subject.length;i++){
             System.out.println("Enter marks in "+subject[i]);
             marks[i]=sc.nextInt();
+            while(marks[i]<0 || marks[i]>100){
+                System.out.println("Invalid marks!\n Enter marks again in "+ subject[i]);
+                marks[i]=sc.nextInt();
+            }
+           
             total+=marks[i];
         }
         double percentage = ((double) total/(subject.length*100))*100;
