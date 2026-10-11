@@ -70,6 +70,3 @@ StudentGradeCalculator/
 
 Ranjan Kumar
 (https://drive.google.com/drive/folders/17bos5EBYW99KQclpeY32yKSyH0TpUkxc?usp=sharing)
-
-AIzaSyD0znpc0-82XWBFlhaOOZa86b5TqavppJ0
-AIzaSyCbQQTEudCAhU4lEs-s99QQ_EOuIfL3pNc
